@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import GraceHopperQuoteComponent from 'react'
+import GraceHopperQuoteComponent from './src'
 
 class App extends Component {
 	render() {
